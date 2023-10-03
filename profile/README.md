@@ -1,7 +1,7 @@
 ```diff
 @@ GreenFrog @@
 
-GreenFrog is a server software for Minecraft: Bedrock edition
+GreenFrog is a server software for Minecraft: Bedrock Edition
 
 + Main repository: https://github.com/GreenFrogMCBE/GreenFrogMCBE
 
