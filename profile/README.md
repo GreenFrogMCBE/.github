@@ -5,6 +5,5 @@ GreenFrog is a server software for Minecraft: Bedrock Edition
 
 + Main repository: https://github.com/GreenFrogMCBE/GreenFrogMCBE
 
-+ Discord: https://discord.gg/UFqrnAbqjP
-+ Guilded: https://www.guilded.gg/i/kbZ41Z5k
++ Discord: https://discord.gg/6szuKkv7pu
 ```
